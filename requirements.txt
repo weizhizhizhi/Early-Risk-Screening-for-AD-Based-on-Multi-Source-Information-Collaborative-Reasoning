@@ -1,0 +1,12 @@
+Flask==2.3.3
+Werkzeug==3.0.3
+librosa==0.10.2.post1
+numpy==1.26.4
+matplotlib==3.8.4
+scikit-learn==1.4.2
+soundfile==0.12.1
+# 可选：若本地有 TensorFlow 模型（.hdf5），可启用
+# tensorflow==2.15.0
+xgboost==2.1.1
+opensmile==2.4.2
+faster-whisper==1.0.3
