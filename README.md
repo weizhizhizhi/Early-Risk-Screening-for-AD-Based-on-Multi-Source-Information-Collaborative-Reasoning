@@ -1,0 +1,2 @@
+# Early-Risk-Screening-for-AD-Based-on-Multi-Source-Information-Collaborative-Reasoning
+Goal: Interpretable triad—language/paralanguage/non-verbal; risk via spatial association (pathological cascade); path: decoupling → spatial → grading. Metrics: ADReSSo21 Acc ≥0.80 (0.853; XGBoost+multisource). One-click; optional ASR; interpretable UI. For memory-clinic/community screening; stress interpretability, reproducibility, deployability.
