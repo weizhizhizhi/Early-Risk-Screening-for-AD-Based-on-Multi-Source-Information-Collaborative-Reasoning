@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# IDE/OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local runtime artifacts
+.env
+server.log
+.cursor/
+
+# App data
+uploads/
+static/*.jpg
+models/*.hdf5
+models/*.joblib
+models/whisper-small/**
+
+
